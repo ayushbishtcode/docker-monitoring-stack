@@ -199,33 +199,35 @@ The dashboard includes:
 
 ## Grafana Dashboard
 
-```
+
 ![Grafana Dashboard](screenshots/grafana-dashboard.png)
-```
+
 
 ---
 
 ## Prometheus Targets
 
-```
-screenshots/prometheus-targets.png
-```
+
+![Prometheus Targets](screenshots/prometheus-targets.png)
+
+
+---
+
+## Prometheus Query
+
+![Prometheus Query](screenshots/prometheus-query.png)
 
 ---
 
 ## Docker Containers
 
-```
-screenshots/docker-containers.png
-```
+![Docker Containers](screenshots/docker-containers.png)
 
 ---
 
 ## Docker Network
 
-```
-screenshots/docker-network.png
-```
+![Docker Network](screenshots/docker-network.png)
 
 ---
 
