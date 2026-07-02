@@ -200,7 +200,7 @@ The dashboard includes:
 ## Grafana Dashboard
 
 ```
-screenshots/grafana-dashboard.png
+![Grafana Dashboard](screenshots/grafana-dashboard.png)
 ```
 
 ---
