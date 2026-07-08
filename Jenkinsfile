@@ -30,7 +30,7 @@ pipeline {
             steps {
                 sh '''
                 cd app
-                sh docker build -t monitoring-app .
+                docker build -t monitoring-app .
                 '''
 
             }
