@@ -4,12 +4,6 @@ pipeline {
 
     stages {
 
-        stage('Checkout') {
-            steps {
-                git 'https://github.com/ayushbishtcode/docker-monitoring-stack.git'
-            }
-        }
-
         stage('Setup Python') {
             steps {
                 sh '''
