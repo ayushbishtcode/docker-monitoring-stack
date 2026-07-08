@@ -32,7 +32,6 @@ pipeline {
                 cd app
                 docker build -t monitoring-app .
                 '''
-
             }
         }
 
